@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(206, 206, 206);
+    font: normal arial;
+    text-align: center;
+    font-weight: bold;
+    min-height: 100vh;
+    margin: 0 auto;
+    max-width: 400px;
+
+    
+}
+h1{
+    font: normal Arial;
+}
+h2{
+    font: normal  Arial;
+    
+}
+footer{
+    padding-top: 100px;
+}
+div{
+    text-align: center;
+  
+}
